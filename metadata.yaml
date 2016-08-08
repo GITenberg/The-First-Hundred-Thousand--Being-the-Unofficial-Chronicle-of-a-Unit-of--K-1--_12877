@@ -1,0 +1,34 @@
+_repo: The-First-Hundred-Thousand--Being-the-Unofficial-Chronicle-of-a-Unit-of--K-1--_12877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hay, Ian
+    aliases:
+    - Beith, John Hay
+    - Beith, Ian Hay
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '4304'
+    url: http://www.gutenberg.org/2009/agents/4304
+description: This 1916 novel, based on the author's combat experiences, tells the
+  story of Kitchener's volunteer army from its mustering in 1914 to its first great
+  blooding in the 1915 Battle of Loos, where, at the cost of 20,000 British casualties,
+  not one inch of ground was gained. Hay's tone perfectly captures the strong character
+  of the soldiers and commanders in times of great difficulty.
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- World War I
+gutenberg_issued: '2004-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- !lcc 'D501'
+- GITenberg
+title: 'The First Hundred Thousand: Being the Unofficial Chronicle of a Unit of "K(1)"'
+url: http://www.gutenberg.org/ebooks/12877
