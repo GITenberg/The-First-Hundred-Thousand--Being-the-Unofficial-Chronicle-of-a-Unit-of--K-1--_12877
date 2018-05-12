@@ -1,5 +1,8 @@
 _repo: The-First-Hundred-Thousand--Being-the-Unofficial-Chronicle-of-a-Unit-of--K-1--_12877
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hay, Ian
@@ -15,6 +18,8 @@ description: This 1916 novel, based on the author's combat experiences, tells th
   blooding in the 1915 Battle of Loos, where, at the cost of 20,000 British casualties,
   not one inch of ground was gained. Hay's tone perfectly captures the strong character
   of the soldiers and commanders in times of great difficulty.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12877#The-First-Hundred-Thousand--Being-the-Unofficial-Chronicle-of-a-Unit-of--K-1--
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - World War I
