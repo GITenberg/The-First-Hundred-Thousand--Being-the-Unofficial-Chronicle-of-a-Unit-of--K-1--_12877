@@ -3112,7 +3112,7 @@ That evening, when the scouts doubled ahead, Lieutenant Simson had
 halted them upon the skirts of a dark, dreich plantation, and said--
 
 "A and B Companies represent the enemy. They are beyond that crest,
-finishing the trenches which were begun the 'other day. They intend
+finishing the trenches which were begun the other day. They intend
 to hold these against our attack. Our only chance is to take them by
 surprise. As they will probably have thrown out a line of outposts,
 you scouts will now scatter and endeavour to get through that line, or
@@ -3459,7 +3459,7 @@ has done for you, since you abandoned the Stock Exchange and took to
 foot-slogging."
 
 "Certainly," replied Ainslie. "A year ago I spent my days trying to
-digest my food, tind my nights trying to sleep. I was not at all
+digest my food, and my nights trying to sleep. I was not at all
 successful in either enterprise. I can now sit down to a supper of
 roast pork and bottled stout, go to bed directly afterwards, sleep all
 night, and wake up in the morning without thinking unkind things
@@ -3561,7 +3561,7 @@ his heart, or keep silent. So he held his peace.
 A tall figure loomed against the starlit sky, and Captain Wagstaffe,
 who had been out in the trench, spoke quickly to Major Kemp:--
 
-"I thing we had better get to our places, sir. Some criminal has cut
+"I think we had better get to our places, sir. Some criminal has cut
 my alarm-cord!"
 
 
@@ -3910,7 +3910,7 @@ being clearly understood that no move shall count unless another piece
 is evicted in the process. For instance, we, the _x_th Brigade of the
 _y_th Division, are suddenly uprooted from billets at A and planted
 down in barracks at B, displacing the _p_th Brigade of the _q_th
-Division in the operation. We have barely cleaned tip after the
+Division in the operation. We have barely cleaned up after the
 _p_th--an Augean task--and officers have just concluded messing,
 furnishing, and laundry arrangements with the local _banditti_, when
 the Practical Joke Department, with its tongue in its cheek, bids us
@@ -4423,7 +4423,7 @@ keep ye all, brave lads!"
 
 The old gentleman sets off down the station road. The company falls
 in, and we march back to barracks, leaving Wee Pe'er--the first name
-on our Roll of Honour--alone in his glory beneath, the Hampshire
+on our Roll of Honour--alone in his glory beneath the Hampshire
 pines.
 
 
